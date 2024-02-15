@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FitnessApp</string>
+    <string name="slogan">Make yourself</string>
+    <string name="progressBar">Progress</string>
+    <string name="day">День:</string>
+    <string name="number_of_exercises">Количество упражнений:</string>
+    <string name="sport_programm">Спортивная программа</string>
+    <string name="exercises_list">Cписок упражнений</string>
+    <string name="next_exercise">Cледующее упражнение</string>
+    <string name="start">Начать</string>
+    <string name="congratulations">Тренировка окончена, поздравляю!</string>
+    <string name="finish">Закончить тренировку</string>
+    <string name="finishActionBar">Congratulations</string>
+    <string name="allEercises">Все урпажнения</string>
+    <string name="traningDays">Дни тренировок</string>
+    <string name="traningProgram">Тренировочная программа</string>
+    <string name="remained">Осталось:</string>
+    <string name="days">дней</string>
+    <string name="attention">Внимание!</string>
+    <string name="reset_all_progress">Сбросить весь прогресс</string>
+    <string name="cancel">Отмена</string>
+    <string name="agree">Ок</string>
+    <string name="erase_уverything">Вы действительно хотите безвозвратно сбросить весь прогресс?</string>
+    <string name="erase_day">Если вы хотите заново проти тренировку, то прогресс дня будет потерян.\nПродолжить?</string>
+</resources>

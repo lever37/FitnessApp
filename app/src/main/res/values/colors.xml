@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FF9800</color>
+    <color name="red">#DA5151</color>
+    <color name="header">#C6BE77</color>
+
+    <color name="areYouYellow">#FFCF48</color>
+    <color name="silverFox">#d4d4dc</color>
+    <color name="deepMatteGrey">#696969</color>
+    <color name="darkSlate">#1d1e22</color>
+
+</resources>

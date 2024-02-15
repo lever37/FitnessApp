@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="exercises">
+        <item>Приседания со штангой|4–6 x 4|2 min|barbell_squats.gif</item>                                      <!-- 0  -->
+        <item>Обратные выпады с гантелями|24(12/12) x 4|1,5 min|lunges.gif</item>                                <!-- 1  -->
+        <item>Жим ногами|12–15 x 3|1,5 min|leg_press.gif</item>                                                  <!-- 2  -->
+        <item>Разгибание ног сидя|20 x 3|1 min|leg_extension.gif</item>                                          <!-- 3  -->
+        <item>Подъёмы на носки стоя|4 x 12|1 min|getting_up_on_toes.gif</item>                                   <!-- 4  -->
+        <item>Становая тяга со штангой|4–6 x 4|2 min|deadlift_with_barbell.gif</item>                            <!-- 5  -->
+        <item>Гакк-присед|12–15 x 3|1,5 min|gak_squats.gif</item>                                                <!-- 6  -->
+        <item>Сгибание ног сидя|3 x 12|1 min|leg_flexion.gif</item>                                              <!-- 7  -->
+        <item>Сгибание ног лёжа|3 x 15|1 min|flexion_of_the_legs_lying_down.gif</item>                           <!-- 8  -->
+        <item>Подъём на скамью с гантелями/штангой|15 x 4|1,5 min|climbing_on_bench_with_dumbbells.gif</item>    <!-- 9  -->
+        <item>Фронтальные приседания со штангой|8–12 x 4|2 min|front_squats_with_barbell.gif</item>              <!-- 10 -->
+        <item>Выпады со штангой|4 x 40|1,5 min|lunges_with_barbell.gif</item>                                    <!-- 11 -->
+        <item>Жим на икры|12 x 3|1,5 min|calf_press.gif</item>                                                   <!-- 12 -->
+        <item>Румынская тяга|3 x 8|2 min|romanian_traction.gif</item>                                            <!-- 13 -->
+    </string-array>
+    
+    <string-array name="day_exercises">
+        <item>0,1,2,8,3,4</item>   <!--0 Complex 1 (week 1-4)-->
+        <item>5,1,6,7,3,4</item>   <!--1 Complex 2 (week 5-8)-->
+        <item>2,13,9,3,4</item>    <!--2 Complex 3 (week 9-12)-->
+        <item>10,11,2,7,3,4</item> <!--3 Complex 4 (week 13-16)-->
+        <item>6,13,0,3,7,12</item> <!--4 Complex 5 (week 17-20)-->
+        <item>0,1,2,8,3,4</item>
+        <item>5,1,6,7,3,4</item>
+        <item>2,13,9,3,4</item>
+        <item>10,11,2,7,3,4</item>
+        <item>6,13,0,3,7,12</item>
+        <item>0,1,2,8,3,4</item>
+        <item>5,1,6,7,3,4</item>
+        <item>2,13,9,3,4</item>
+        <item>10,11,2,7,3,4</item>
+        <item>6,13,0,3,7,12</item>
+        <item>0,1,2,8,3,4</item>
+        <item>5,1,6,7,3,4</item>
+        <item>2,13,9,3,4</item>
+        <item>10,11,2,7,3,4</item>
+        <item>6,13,0,3,7,12</item>
+    </string-array>
+
+</resources>
